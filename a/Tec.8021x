@@ -1,0 +1,9 @@
+#/var/lib/iwd/Tec.8021x
+[Security]
+EAP-Method=PEAP
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=
+EAP-PEAP-Phase2-Password=
+
+[Settings]
+Autoconnect=true
